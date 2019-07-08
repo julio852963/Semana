@@ -12,7 +12,7 @@
 <body>
 	<section id="contenedor">
     	<header>
-        	<img src="../Compartir/imagen/semana-turistica-pisco.jpg" alt="Semana Pisco" id="logoimagen">
+        	<img src="../imagen/semana-turistica-pisco.jpg" alt="Semana Pisco" id="logoimagen">
             <nav>
             	<ul id="Menú">
                 	<li><a href="../Semana Turistica/Aniversario de Pisco.html">Aniversario de Pisco</a></li>
